@@ -1,4 +1,0 @@
-# WebScrapingMitPython
-
-# Initales Setup
-
